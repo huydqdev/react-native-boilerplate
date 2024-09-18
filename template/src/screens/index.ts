@@ -1,3 +1,3 @@
 export { default as Startup } from './Startup/Startup';
 export { default as Example } from './Example/Example';
-export { default as Example } from './OnionGPT/OnionGPT';
+export { default as OnionGPT } from './OnionGPT/OnionGPT';
